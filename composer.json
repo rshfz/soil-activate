@@ -1,0 +1,5 @@
+{
+  "name": "wpindi/soil-activate",
+  "keywords": ["wordpress", "plugin"],
+  "type": "wordpress-plugin"
+}

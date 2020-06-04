@@ -1,1 +1,2 @@
-soil-activate
+soil-activate  
+Minus google analytic feature.
